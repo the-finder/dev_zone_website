@@ -6,7 +6,7 @@ const TermsOfUse = () => (
         <p><strong>Effective Date:</strong> June 9, 2025</p>
 
         <p>
-            These Terms of Use ("Terms") govern your access to and use of the mobile games developed by RN Game Zone ("we", "us", or "our").
+            These Terms of Use ("Terms") govern your access to and use of the mobile games developed by dev_zone ("we", "us", or "our").
             By using our apps, you agree to these Terms. If you do not agree, please do not use our services.
         </p>
 
@@ -18,7 +18,7 @@ const TermsOfUse = () => (
 
         <h2>Intellectual Property</h2>
         <p>
-            All content within our games, including visuals, sounds, and code, is the property of RN Game Zone or its licensors.
+            All content within our games, including visuals, sounds, and code, is the property of dev_zone or its licensors.
             You may not copy, modify, distribute, or reverse-engineer any part of our apps without permission.
         </p>
 
@@ -36,7 +36,7 @@ const TermsOfUse = () => (
 
         <h2>Limitation of Liability</h2>
         <p>
-            To the maximum extent allowed by law, RN Game Zone will not be liable for any direct, indirect, incidental, or consequential
+            To the maximum extent allowed by law, dev_zone will not be liable for any direct, indirect, incidental, or consequential
             damages resulting from the use or inability to use our apps.
         </p>
 
